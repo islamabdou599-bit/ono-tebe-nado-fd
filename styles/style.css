@@ -306,7 +306,7 @@
     display: grid;
     grid-template-columns: repeat(3 , 1fr);
     width: 100%;
-    padding: 0;
+    padding-bottom: 90px;
 
 
 }
